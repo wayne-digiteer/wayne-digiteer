@@ -1,4 +1,4 @@
-# ![Banner](https://media.licdn.com/dms/image/v2/D5616AQHOvkKECk_A3A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726034627298?e=1738195200&v=beta&t=n7BEOu0h_hD_8oR6anwRAKz1i9P4N2S73a36lpnaZZM)  
+# ![Banner](https://media.licdn.com/dms/image/v2/D5616AQHOvkKECk_A3A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726034627298?e=1744243200&v=beta&t=h6ZL-CZwS-tzh85lyHVi6YvLB85lGH-gFpeJOqSskAs)  
 
 # Hi, I'm Clark 👋  
 **Fullstack Web Developer & Competitive Programmer**  
