@@ -7,7 +7,7 @@ I love building things and solving problems.
 ---
 
 ## About Me  
-I'm a passionate developer with hands-on experience in modern web technologies like **Next.js**, **Laravel**, **Flask**, and more. I've worked on a variety of freelance projects, building efficient, user-friendly applications. Always up for challenges, I enjoy hackathons, side projects, and finding creative ways technology can solve real-world problems.
+I'm a passionate developer with hands-on experience in modern web technologies like **Next.js**, **Laravel**, **Flask**, and **Rails**. I've worked on a variety of freelance projects, building efficient, user-friendly applications. Always up for challenges, I enjoy hackathons, side projects, and finding creative ways technology can solve real-world problems.
 
 ---
 
@@ -19,11 +19,13 @@ I'm a passionate developer with hands-on experience in modern web technologies l
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)
 
 ### Frameworks & Libraries  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)  
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
+![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)  
 
 ### Databases  
