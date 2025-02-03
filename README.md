@@ -1,6 +1,6 @@
 # ![Banner](https://media.licdn.com/dms/image/v2/D5616AQHOvkKECk_A3A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726034627298?e=1744243200&v=beta&t=h6ZL-CZwS-tzh85lyHVi6YvLB85lGH-gFpeJOqSskAs)  
 
-# Hi, I'm Clark 👋  
+# Hi, I'm Wayne 👋  
 **Fullstack Web Developer & Competitive Programmer**  
 I love building things and solving problems.
 
