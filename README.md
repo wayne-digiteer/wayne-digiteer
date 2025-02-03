@@ -42,7 +42,7 @@ I'm a passionate developer with hands-on experience in modern web technologies l
 
 ## 💼 Work Experience  
 - **[Nomad Telecom USA](https://nomadtelecom.co)** (Dec 2024 - Jan 2025)  
-  *Developed an automated order processor that connects a Shopify Store to an esims provider."
+  *Developed an automated order processor that connects a Shopify Store to an esims provider.*
 
 - **[IMA Assessment and Training Center Inc.](http://www.imaphilsinc.com/)** (Oct 2024 - Dec 2024)  
   *Developed a portal with admin panels and dashboards for managing seafarer assessments and operations.*
