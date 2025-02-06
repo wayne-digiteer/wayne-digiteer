@@ -90,7 +90,7 @@ Sleek website for a food supplement business with dynamic animations.
 
 ![Clark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHlNlTO&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHlNlTO&layout=compact&theme=radical)  
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=CHlNlTO&theme=radical)  
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=chinito&theme=radical)  
 
 ---
 
